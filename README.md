@@ -1,5 +1,5 @@
 
-<img src="Documentation/Images/ZenjectLogo.png?raw=true" alt="Zenject" width="600px" height="134px"/>
+<img src="https://raw.githubusercontent.com/modesttree/Zenject/master/Documentation/Images/ZenjectLogo.png" alt="Zenject" width="600px" height="134px"/>
 
 ## Dependency Injection Framework for Unity3D upm package
 
