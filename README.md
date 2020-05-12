@@ -4,17 +4,25 @@
 ## Dependency Injection Framework for Unity3D upm package
 
 [![Join the chat at https://gitter.im/Zenject/Lobby](https://badges.gitter.im/Zenject/Lobby.svg)](https://gitter.im/Zenject/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![openupm](https://img.shields.io/npm/v/zenject?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/zenject/)
 
 If you are looking for the older documentation for Zenject you can find that here:  <a href="https://github.com/modesttree/Zenject/tree/f0dd30ad451dcbc3eb17e636455a6c89b14ad537">Zenject 3.x</a>, <a href="https://github.com/modesttree/Zenject/tree/0b4a15b1e6e680c94fd34a2d7420eb41e320b21b">Zenject 4.x</a>, <a href="https://github.com/modesttree/Zenject/tree/dc019e31dbae09eb53c1638be00f7f002898956c">Zenject 5.x</a>
 
 ## Using
- For start using this package add lines into `./Packages/manifest.json` like next sample:  
+
+For start using this package add lines into `./Packages/manifest.json` like next sample:  
 ```json
 {
   "dependencies": {
     "zenject": "https://github.com/k0dep/Zenject.git#8.0.0"
   }
 }
+```
+
+Or install via the [OpenUPM registry](https://openupm.com), using [openupm-cli](https://github.com/openupm/openupm-cli).
+
+```
+openupm add zenject
 ```
 
 ## <a id="introduction"></a>Introduction
